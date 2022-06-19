@@ -1,0 +1,6 @@
+name: "simple-package"
+title: "Simple package"
+description: A simple package for testing
+version: 0.1.0
+author: lesserror
+tags: ["example"]
